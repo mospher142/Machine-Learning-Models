@@ -18,3 +18,6 @@ ${b}$ - **y-intercept** / **bias**
 Its an optimized algorithm used to find the optimal values of the **coefficients** and for **y-intercept**. \
 The goal is to iteratively update the values of ${w}$ and ${b}$ in a way that minimizes the **loss function**.\
 By minimizing the loss function the algorithm finds the best-fit that passes throught the data points allowing the model to make accurate predictions for new data points.
+
+**Batch Gradient Descent**\
+It uses all the data points of the feature
