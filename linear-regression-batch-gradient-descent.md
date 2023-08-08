@@ -21,3 +21,8 @@ By minimizing the loss function the algorithm finds the best-fit that passes thr
 
 **Batch Gradient Descent**\
 It uses all the data points of the feature
+
+**Calculate the Gradient Descent**
+1º - chose a random value for weight and bias
+2º - chose a loss function in this case will be the MSE
+3º - 
