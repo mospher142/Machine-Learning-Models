@@ -1,4 +1,3 @@
 # Linear Regression using Normal Equation
 
-
-$\{y} = {b}_{0} + {b}_{1} * {x} + {e}$
+𝑦 = 𝑏0 + 𝑏1𝑥 + 𝑒
